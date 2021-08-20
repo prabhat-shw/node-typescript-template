@@ -5,5 +5,10 @@
   "main": "index.js",
   "repository": "https://github.com/prabhat-shw/node-typescript-template.git",
   "author": "Prabhat Shaw <prabhat.shaw77@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.6.2",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.3.5"
+  }
 }
